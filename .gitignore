@@ -5,6 +5,7 @@ __pycache__/
 
 src/data/
 src/models/*.keras
+!src/models/best_model_EfficientNetB0_finetuned.keras
 src/models/*.h5
 
 .kaggle/
