@@ -1,0 +1,13 @@
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+src/data/
+src/models/*.keras
+src/models/*.h5
+
+.kaggle/
+.env
+.DS_Store
+Thumbs.db

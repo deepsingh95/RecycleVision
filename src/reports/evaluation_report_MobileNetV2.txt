@@ -1,0 +1,21 @@
+RecycleVision Evaluation Report - Backbone: MobileNetV2
+============================================================
+
+Overall Accuracy:  0.8021
+Overall Precision: 0.8208
+Overall Recall:    0.8021
+Overall F1-Score:  0.8053
+
+Per-Class Report:
+              precision    recall  f1-score   support
+
+   cardboard       0.96      0.80      0.88        61
+       glass       0.84      0.68      0.75        76
+       metal       0.76      0.81      0.78        62
+       paper       0.87      0.84      0.86        90
+     plastic       0.76      0.84      0.80        73
+       trash       0.53      0.91      0.67        22
+
+    accuracy                           0.80       384
+   macro avg       0.79      0.81      0.79       384
+weighted avg       0.82      0.80      0.81       384
